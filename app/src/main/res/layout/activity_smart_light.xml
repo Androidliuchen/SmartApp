@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="newer.hn.smartdevice.SmartLightActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn1"
+        android:text="@string/btn_light_on1"
+        style="@style/btnstyle"
+        android:layout_marginTop="80dp"/>
+    <Button
+        android:id="@+id/btn2"
+        android:text="@string/btn_light_on2"
+        style="@style/btnstyle"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/btn3"
+        android:text="@string/btn_light_on3"
+        style="@style/btnstyle"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:id="@+id/btn4"
+        android:text="@string/btn_light_on4"
+        style="@style/btnstyle"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/btn5"
+        android:text="@string/btn_light_on5"
+        style="@style/btnstyle"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

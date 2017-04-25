@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">牛耳智能设备控制</string>
+    <string name="tv_title">牛耳智能设备控制</string>
+    <string name="tv_ipaddr">智能终端设备IP地址:</string>
+    <string name="tv_port">智能终端设备端口号:</string>
+    <string name="edt_ipaddr">输入IP地址...</string>
+    <string name="edt_port">输入端口值...</string>
+    <string name="btn_tcancel">取消连接</string>
+    <string name="btn_tok">连接终端</string>
+    <string name="btn_light_on1">前进</string>
+    <string name="btn_light_on2">后退</string>
+    <string name="btn_light_on3">左转</string>
+    <string name="btn_light_on4">右转</string>
+    <string name="btn_light_on5">停止</string>
+</resources>
